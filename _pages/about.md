@@ -58,6 +58,9 @@ His research interests include Natural Language Processing, <font color=green>Ma
 - *2023.09 - now*: Master. Computer Science, **School of Computer Science and Technology, Beijing Institute of Technology**.  
 - *2019.09 - 2023.06*: Undergraduate. Computer Science, **Elite class of XUTELI, Beijing Institute of Technology**.
 
+# 🧐 Services
+- **Reviewer** of ACL Rolling Review (ARR), 2024
+
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
