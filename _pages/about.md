@@ -19,7 +19,7 @@ redirect_from:
 
 **Yanzhi Tian (田炎智)**, is currently a master student at [School of Computer Science and Technology, Beijing Institute of Technology](https://cs.bit.edu.cn/)(北京理工大学计算机学院). He received his bachelor's degree from [Elite class of XUTELI, Beijing Institute of Technology](https://xuteli.bit.edu.cn/)(北京理工大学徐特立英才班) in 2023, majoring in computer science.
 
-His research interests include <font color=green>Machine Translation</font> and <font color=blue>Vision Language Models</font>.
+His research interests include <font color="#2E8B57"><b>Machine Translation</b></font>, <font color="#DAA520"><b>Large Language Models</b></font> and <font color="#1E90FF"><b>Vision Language Models</b></font>.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -32,7 +32,7 @@ His research interests include <font color=green>Machine Translation</font> and 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Findings</div><img src='images/ACL2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Findings</div><img src='images/ACL2025.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Exploring In-Image Machine Translation with Real-World Background
