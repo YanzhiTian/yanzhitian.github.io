@@ -53,8 +53,16 @@ Exploring In-Image Machine Translation with Real-World Background
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023 Findings</div><img src='images/IIMT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div style="text-align: center;">
+      <div class="badge">EMNLP 2023 Findings</div>
+      <img src='images/IIMT.png' alt="sym" width="85%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023 Findings</div><img src='images/IIMT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 
 In-Image Neural Machine Translation with Segmented Pixel Sequence-to-Sequence Model
 
