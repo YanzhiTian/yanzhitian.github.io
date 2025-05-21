@@ -32,19 +32,35 @@ His research interests include <font color=green>Machine Translation</font> and 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Findings</div><img src='images/ACL2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Exploring In-Image Machine Translation with Real-World Background
+
+**Yanzhi Tian**, Zeming Liu, Zhengyang Liu, Yuhang Guo
+
+- We tackle In-Image Machine Translation with real-world backgrounds by introducing a new dataset IIMT30k and the DebackX model for better translation and visual quality.
+- Paper 
+- Code [![GitHub](https://img.shields.io/badge/GitHub-grey.svg?style=flat&logo=github)](https://github.com/BITHLP/DebackX)
+- Dataset [![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=flat&logo=huggingface)](https://huggingface.co/datasets/yztian/IIMT30k)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023 Findings</div><img src='images/IIMT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[In-Image Neural Machine Translation with Segmented Pixel Sequence-to-Sequence Model](https://aclanthology.org/2023.findings-emnlp.1004/)
+In-Image Neural Machine Translation with Segmented Pixel Sequence-to-Sequence Model
 
 **Yanzhi Tian**, Xiang Li, Zeming Liu, Yuhang Guo, Bin Wang
 
 <!-- [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=WtHJWXIAAAAJ&citation_for_view=WtHJWXIAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - We design an end-to-end model for IIMT that outperforms traditional cascade methods for the first time.
-- Paper [![ACL](https://img.shields.io/badge/ACL-white.svg?stype=plastic)](https://aclanthology.org/2023.findings-emnlp.1004/) [![OpenReview](https://img.shields.io/badge/OpenReview-white.svg?stype=plastic)](https://openreview.net/forum?id=3RS2T9EPjI)
-- Code [![GitHub](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/YanzhiTian/E2E-IIMT)
+- Paper [![ACL](https://img.shields.io/badge/ACL-white.svg?stype=flat)](https://aclanthology.org/2023.findings-emnlp.1004/) [![OpenReview](https://img.shields.io/badge/OpenReview-white.svg?stype=flat)](https://openreview.net/forum?id=3RS2T9EPjI)
+- Code [![GitHub](https://img.shields.io/badge/GitHub-grey.svg?style=flat&logo=github)](https://github.com/YanzhiTian/E2E-IIMT)
 </div>
 </div>
+
 
 ## 2023
 - ``IWSLT 2023`` [The Xiaomi AI Lab’s Speech Translation Systems for IWSLT 2023 Offline Task, Simultaneous Task and Speech-to-Speech Task](https://aclanthology.org/2023.iwslt-1.39/), Wuwei Huang, Mengge Liu, Xiang Li, **Yanzhi Tian**, Fengyu Yang, Wen Zhang, Jian Luan, Bin Wang, Yuhang Guo, Jinsong Su
