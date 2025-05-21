@@ -32,8 +32,14 @@ His research interests include <font color="#2E8B57"><b>Machine Translation</b><
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Findings</div><img src='images/ACL2025.png' alt="sym" width="75%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div style="text-align: center;">
+      <div class="badge">ACL 2025 Findings</div>
+      <img src='images/ACL2025.png' alt="sym" width="75%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 Exploring In-Image Machine Translation with Real-World Background
 
