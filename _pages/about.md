@@ -46,7 +46,7 @@ Exploring In-Image Machine Translation with Real-World Background
 **Yanzhi Tian**, Zeming Liu, Zhengyang Liu, Yuhang Guo
 
 - We tackle In-Image Machine Translation with real-world backgrounds by introducing a new dataset IIMT30k and the DebackX model for better translation and visual quality.
-- Paper 
+- Paper [![arXiv](https://img.shields.io/badge/arXiv-2505.15282-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2505.15282)
 - Code [![GitHub](https://img.shields.io/badge/GitHub-grey.svg?style=flat&logo=github)](https://github.com/BITHLP/DebackX)
 - Dataset [![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=flat&logo=huggingface)](https://huggingface.co/datasets/yztian/IIMT30k)
 </div>
