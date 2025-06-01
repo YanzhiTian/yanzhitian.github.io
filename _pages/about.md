@@ -57,7 +57,7 @@ Exploring In-Image Machine Translation with Real-World Background
   <div class='paper-box-image'>
     <div style="text-align: center;">
       <div class="badge">EMNLP 2023 Findings</div>
-      <img src='images/IIMT.png' alt="sym" width="85%">
+      <img src='images/EMNLP2023.png' alt="sym" width="85%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -91,8 +91,8 @@ In-Image Neural Machine Translation with Segmented Pixel Sequence-to-Sequence Mo
 - *2023.09 - now*: Master. Computer Science, **School of Computer Science and Technology, Beijing Institute of Technology**.  
 - *2019.09 - 2023.06*: Undergraduate. Computer Science, **Elite class of XUTELI, Beijing Institute of Technology**.
 
-# 🧐 Services
-- **Reviewer** of ACL Rolling Review (ARR), 2024
+<!-- # 🧐 Services
+- **Reviewer** of ACL Rolling Review (ARR), 2024 -->
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
