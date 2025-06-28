@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Yanzhi Tian (田炎智)**, is currently a master student at [School of Computer Science and Technology, Beijing Institute of Technology](https://cs.bit.edu.cn/)(北京理工大学计算机学院). He received his bachelor's degree from [Elite class of XUTELI, Beijing Institute of Technology](https://xuteli.bit.edu.cn/)(北京理工大学徐特立英才班) in 2023, majoring in computer science.
+**Yanzhi Tian (田炎智)**, is currently a master student at [School of Computer Science and Technology, Beijing Institute of Technology](https://cs.bit.edu.cn/)(北京理工大学计算机学院). He received his bachelor's degree from [XUTELI School, Beijing Institute of Technology](https://xuteli.bit.edu.cn/)(北京理工大学徐特立英才班) in 2023, majoring in computer science.
 
 His research interests include <font color="#2E8B57"><b>Machine Translation</b></font>, <font color="#DAA520"><b>Large Language Models</b></font> and <font color="#1E90FF"><b>Vision Language Models</b></font>.
 
