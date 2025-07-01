@@ -100,3 +100,4 @@ In-Image Neural Machine Translation with Segmented Pixel Sequence-to-Sequence Mo
 
 # 💻 Internships
 - *2023.01 - 2023.06*, Internship at **Xiaomi AI Lab**. Mentor: [Xiang Li](https://scholar.google.com.hk/citations?user=DMfYmIEAAAAJ&hl=zh-CN).
+- *2025.06 - *, Internship at **Zhipu AI**. Mentor: [Cunxiang Wang](https://wangcunxiang.github.io/).
