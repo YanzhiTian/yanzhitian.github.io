@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Yanzhi Tian (田炎智)**, is currently a master student at [School of Computer Science and Technology, Beijing Institute of Technology](https://cs.bit.edu.cn/)(北京理工大学计算机学院). He received his bachelor's degree from [XUTELI School, Beijing Institute of Technology](https://xuteli.bit.edu.cn/)(北京理工大学徐特立英才班) in 2023, majoring in computer science.
+**Yanzhi Tian (田炎智)**, is currently a PhD student at [School of Computer Science and Technology, Beijing Institute of Technology](https://cs.bit.edu.cn/)(北京理工大学计算机学院). He received his bachelor's degree from [XUTELI School, Beijing Institute of Technology](https://xuteli.bit.edu.cn/)(北京理工大学徐特立英才班) in 2023, majoring in computer science.
 
 His research interests include <font color="#2E8B57"><b>Machine Translation</b></font>, <font color="#DAA520"><b>Large Language Models</b></font> and <font color="#1E90FF"><b>Vision Language Models</b></font>.
 
@@ -81,15 +81,14 @@ In-Image Neural Machine Translation with Segmented Pixel Sequence-to-Sequence Mo
 
 ## 2022
 - ``LREC 2022 Workshop``[Ancient Chinese Word Segmentation and Part-of-Speech Tagging Using Data Augmentation](https://aclanthology.org/2022.lt4hala-1.21/), **Yanzhi Tian**, Yuhang Guo
-- ``NAACL 2022  Workshop``[BIT-Xiaomi’s System for AutoSimTrans](https://aclanthology.org/2022.autosimtrans-1.6/), Mengge Liu, Xiang Li, Bao Chen, **Yanzhi Tian**, Tianwei Lan, Silin Li, Yuhang Guo, Jian Luan, Bin Wang
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2023.09 - now*: Master. Computer Science, **School of Computer Science and Technology, Beijing Institute of Technology**.  
-- *2019.09 - 2023.06*: Undergraduate. Computer Science, **Elite class of XUTELI, Beijing Institute of Technology**.
+- *2023.09 - now*: PhD Student. Computer Science, **School of Computer Science and Technology, Beijing Institute of Technology**.  
+- *2019.09 - 2023.06*: Undergraduate. Computer Science, **XUTELI School, Beijing Institute of Technology**.
 
 <!-- # 🧐 Services
 - **Reviewer** of ACL Rolling Review (ARR), 2024 -->
@@ -100,4 +99,4 @@ In-Image Neural Machine Translation with Segmented Pixel Sequence-to-Sequence Mo
 
 # 💻 Internships
 - *2023.01 - 2023.06*, Internship at **Xiaomi AI Lab**. Mentor: [Xiang Li](https://scholar.google.com.hk/citations?user=DMfYmIEAAAAJ&hl=zh-CN).
-- *2025.06 -*, Internship at **Zhipu AI**. Mentor: [Cunxiang Wang](https://wangcunxiang.github.io/).
+- *2025.06 - now*, Internship at **Zhipu AI**. Mentor: [Cunxiang Wang](https://wangcunxiang.github.io/).
