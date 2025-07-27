@@ -46,9 +46,8 @@ Exploring In-Image Machine Translation with Real-World Background
 **Yanzhi Tian**, Zeming Liu, Zhengyang Liu, Yuhang Guo
 
 - We tackle In-Image Machine Translation with real-world backgrounds by introducing a new dataset IIMT30k and the DebackX model for better translation and visual quality.
-- Paper [![arXiv](https://img.shields.io/badge/arXiv-2505.15282-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2505.15282)
-- Code [![GitHub](https://img.shields.io/badge/GitHub-grey.svg?style=flat&logo=github)](https://github.com/BITHLP/DebackX)
-- Dataset [![HuggingFace](https://img.shields.io/badge/HuggingFace-IIMT30k-ffd700?logo=huggingface&logoColor=yellow)](https://huggingface.co/datasets/yztian/IIMT30k)
+- Paper [![arXiv](https://img.shields.io/badge/arXiv-2505.15282-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2505.15282) [![ACL](https://img.shields.io/badge/ACL-white.svg?stype=flat)](https://aclanthology.org/2025.findings-acl.6/)
+- Code and Dataset [![GitHub](https://img.shields.io/badge/GitHub-grey.svg?style=flat&logo=github)](https://github.com/BITHLP/DebackX) [![HuggingFace](https://img.shields.io/badge/HuggingFace-IIMT30k-ffd700?logo=huggingface&logoColor=yellow)](https://huggingface.co/datasets/yztian/IIMT30k)
 </div>
 </div>
 
@@ -98,5 +97,5 @@ In-Image Neural Machine Translation with Segmented Pixel Sequence-to-Sequence Mo
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2023.01 - 2023.06*, Internship at **Xiaomi AI Lab**. Mentor: [Xiang Li](https://scholar.google.com.hk/citations?user=DMfYmIEAAAAJ&hl=zh-CN).
 - *2025.06 - now*, Internship at **Zhipu AI**. Mentor: [Cunxiang Wang](https://wangcunxiang.github.io/).
+- *2023.01 - 2023.06*, Internship at **Xiaomi AI Lab**. Mentor: [Xiang Li](https://scholar.google.com.hk/citations?user=DMfYmIEAAAAJ&hl=zh-CN).
