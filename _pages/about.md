@@ -46,7 +46,7 @@ Exploring In-Image Machine Translation with Real-World Background
 **Yanzhi Tian**, Zeming Liu, Zhengyang Liu, Yuhang Guo
 
 - We tackle In-Image Machine Translation with real-world backgrounds by introducing a new dataset IIMT30k and the DebackX model for better translation and visual quality.
-- Paper [![arXiv](https://img.shields.io/badge/arXiv-2505.15282-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2505.15282) [![ACL](https://img.shields.io/badge/ACL-white.svg?stype=flat)](https://aclanthology.org/2025.findings-acl.6/)
+- Paper [![arXiv](https://img.shields.io/badge/arXiv-2505.15282-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2505.15282) [![ACL](https://img.shields.io/badge/ACL-grey.svg?stype=flat)](https://aclanthology.org/2025.findings-acl.6/)
 - Code and Dataset [![GitHub](https://img.shields.io/badge/GitHub-grey.svg?style=flat&logo=github)](https://github.com/BITHLP/DebackX) [![HuggingFace](https://img.shields.io/badge/HuggingFace-IIMT30k-ffd700?logo=huggingface&logoColor=yellow)](https://huggingface.co/datasets/yztian/IIMT30k)
 </div>
 </div>
@@ -69,7 +69,7 @@ In-Image Neural Machine Translation with Segmented Pixel Sequence-to-Sequence Mo
 
 <!-- [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=WtHJWXIAAAAJ&citation_for_view=WtHJWXIAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - We design an end-to-end model for IIMT that outperforms traditional cascade methods for the first time.
-- Paper [![ACL](https://img.shields.io/badge/ACL-white.svg?stype=flat)](https://aclanthology.org/2023.findings-emnlp.1004/) [![OpenReview](https://img.shields.io/badge/OpenReview-white.svg?stype=flat)](https://openreview.net/forum?id=3RS2T9EPjI)
+- Paper [![ACL](https://img.shields.io/badge/ACL-grey.svg?stype=flat)](https://aclanthology.org/2023.findings-emnlp.1004/) [![OpenReview](https://img.shields.io/badge/OpenReview-grey.svg?stype=flat)](https://openreview.net/forum?id=3RS2T9EPjI)
 - Code [![GitHub](https://img.shields.io/badge/GitHub-grey.svg?style=flat&logo=github)](https://github.com/YanzhiTian/E2E-IIMT)
 </div>
 </div>
