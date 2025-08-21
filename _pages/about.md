@@ -26,6 +26,7 @@ His research interests include <font color="#2E8B57"><b>Machine Translation</b><
 
 # 🔥 News
 
+- *2025.08*: &nbsp;🎉🎉 1 paper has been accepted by EMNLP 2025 Main!
 - *2025.05*: &nbsp;🎉🎉 1 paper has been accepted by ACL 2025 Findings!
 <!-- - *2023.10*: &nbsp;🎉🎉 1 paper has been accepted by EMNLP 2023 Findings! -->
 
