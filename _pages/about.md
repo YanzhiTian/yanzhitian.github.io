@@ -36,6 +36,24 @@ His research interests include <font color="#2E8B57"><b>Machine Translation</b><
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div style="text-align: center;">
+      <div class="badge">EMNLP 2025 Main</div>
+      <img src='images/EMNLP2025.png' alt="sym" width="75%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+PRIM: Towards Practical In-Image Multilingual Machine Translation
+
+**Yanzhi Tian**, Zeming Liu, Zhengyang Liu, Chong Feng, Xin Li, Heyan Huang, Yuhang Guo
+
+- We propose PRIM, the first real-world multilingual In-Image Machine Translation benchmark, and develop VisTrans, an end-to-end model that achieves superior translation quality and visual effect under practical conditions.
+
+- Code [![GitHub](https://img.shields.io/badge/GitHub-PRIM-white?style=flat&logo=github&labelColor=grey&color=white)](https://github.com/BITHLP/PRIM)
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div style="text-align: center;">
       <div class="badge">ACL 2025 Findings</div>
       <img src='images/ACL2025.png' alt="sym" width="75%">
     </div>
@@ -48,7 +66,7 @@ Exploring In-Image Machine Translation with Real-World Background
 
 - We tackle In-Image Machine Translation with real-world backgrounds by introducing a new dataset IIMT30k and the DebackX model for better translation and visual quality.
 - Paper [![arXiv](https://img.shields.io/badge/arXiv-2505.15282-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2505.15282) [![ACL](https://img.shields.io/badge/ACL-grey.svg?stype=flat)](https://aclanthology.org/2025.findings-acl.6/)
-- Code and Dataset [![GitHub](https://img.shields.io/badge/GitHub-grey.svg?style=flat&logo=github)](https://github.com/BITHLP/DebackX) [![HuggingFace](https://img.shields.io/badge/HuggingFace-IIMT30k-ffd700?logo=huggingface&logoColor=yellow)](https://huggingface.co/datasets/yztian/IIMT30k)
+- Code [![GitHub](https://img.shields.io/badge/GitHub-DebackX-white?style=flat&logo=github&labelColor=grey&color=white)](https://github.com/BITHLP/DebackX)
 </div>
 </div>
 
@@ -76,11 +94,11 @@ In-Image Neural Machine Translation with Segmented Pixel Sequence-to-Sequence Mo
 </div>
 
 
-## 2023
+<!-- ## 2023
 - ``IWSLT 2023`` [The Xiaomi AI Lab’s Speech Translation Systems for IWSLT 2023 Offline Task, Simultaneous Task and Speech-to-Speech Task](https://aclanthology.org/2023.iwslt-1.39/), Wuwei Huang, Mengge Liu, Xiang Li, **Yanzhi Tian**, Fengyu Yang, Wen Zhang, Jian Luan, Bin Wang, Yuhang Guo, Jinsong Su
 
 ## 2022
-- ``LREC 2022 Workshop``[Ancient Chinese Word Segmentation and Part-of-Speech Tagging Using Data Augmentation](https://aclanthology.org/2022.lt4hala-1.21/), **Yanzhi Tian**, Yuhang Guo
+- ``LREC 2022 Workshop``[Ancient Chinese Word Segmentation and Part-of-Speech Tagging Using Data Augmentation](https://aclanthology.org/2022.lt4hala-1.21/), **Yanzhi Tian**, Yuhang Guo -->
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
