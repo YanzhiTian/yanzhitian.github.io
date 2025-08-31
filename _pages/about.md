@@ -37,7 +37,7 @@ His research interests include <font color="#2E8B57"><b>Machine Translation</b><
   <div class='paper-box-image'>
     <div style="text-align: center;">
       <div class="badge">EMNLP 2025 Main</div>
-      <img src='images/EMNLP2025.png' alt="sym" width="75%">
+      <img src='images/EMNLP2025.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -46,16 +46,18 @@ PRIM: Towards Practical In-Image Multilingual Machine Translation
 
 **Yanzhi Tian**, Zeming Liu, Zhengyang Liu, Chong Feng, Xin Li, Heyan Huang, Yuhang Guo
 
-- We propose PRIM, the first real-world multilingual In-Image Machine Translation benchmark, and develop VisTrans, an end-to-end model that achieves superior translation quality and visual effect under practical conditions.
+- We propose PRIM, the first real-world multilingual In-Image Machine Translation benchmark, and develop VisTrans, an end-to-end model that achieves superior translation quality and visual effect.
 
 - Code [![GitHub](https://img.shields.io/badge/GitHub-PRIM-white?style=flat&logo=github&labelColor=grey&color=white)](https://github.com/BITHLP/PRIM)
+</div>
+</div>
 
 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div style="text-align: center;">
       <div class="badge">ACL 2025 Findings</div>
-      <img src='images/ACL2025.png' alt="sym" width="75%">
+      <img src='images/ACL2025.png' alt="sym" width="65%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
