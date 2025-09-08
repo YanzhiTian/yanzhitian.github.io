@@ -68,7 +68,7 @@ Exploring In-Image Machine Translation with Real-World Background
 **Yanzhi Tian**, Zeming Liu, Zhengyang Liu, Yuhang Guo
 
 - We tackle In-Image Machine Translation with real-world backgrounds by introducing a new dataset IIMT30k and the DebackX model for better translation and visual quality.
-- [![ACL Anthology](https://img.shields.io/badge/ACL%20Anthology-ACL%202025%20Findings-red?logo=book&logoColor=white)](https://aclanthology.org/2025.findings-acl.6) [![GitHub](https://img.shields.io/badge/GitHub-DebackX-white?style=flat&logo=github&labelColor=grey&color=white)](https://github.com/BITHLP/DebackX)
+- [![ACL Anthology](https://img.shields.io/badge/ACL%20Anthology-ACL%202025%20Findings-b31b1b?logo=book&logoColor=white)](https://aclanthology.org/2025.findings-acl.6) [![GitHub](https://img.shields.io/badge/GitHub-DebackX-white?style=flat&logo=github&labelColor=grey&color=white)](https://github.com/BITHLP/DebackX)
 <!-- [![arXiv](https://img.shields.io/badge/arXiv-2505.15282-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2505.15282) [![ACL](https://img.shields.io/badge/ACL-grey.svg?stype=flat)](https://aclanthology.org/2025.findings-acl.6/) -->
 </div>
 </div>
@@ -91,7 +91,7 @@ In-Image Neural Machine Translation with Segmented Pixel Sequence-to-Sequence Mo
 
 <!-- [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=WtHJWXIAAAAJ&citation_for_view=WtHJWXIAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - We design an end-to-end model for IIMT that outperforms traditional cascade methods for the first time.
-- [![ACL Anthology](https://img.shields.io/badge/ACL%20Anthology-EMNLP%202023%20Findings-red?logo=book&logoColor=white)](https://aclanthology.org/2023.findings-emnlp.1004/) [![GitHub](https://img.shields.io/badge/GitHub-grey.svg?style=flat&logo=github)](https://github.com/YanzhiTian/E2E-IIMT)
+- [![ACL Anthology](https://img.shields.io/badge/ACL%20Anthology-EMNLP%202023%20Findings-b31b1b?logo=book&logoColor=white)](https://aclanthology.org/2023.findings-emnlp.1004/) [![GitHub](https://img.shields.io/badge/GitHub-grey.svg?style=flat&logo=github)](https://github.com/YanzhiTian/E2E-IIMT)
 
 <!-- [![ACL](https://img.shields.io/badge/ACL-grey.svg?stype=flat)](https://aclanthology.org/2023.findings-emnlp.1004/) [![OpenReview](https://img.shields.io/badge/OpenReview-grey.svg?stype=flat)](https://openreview.net/forum?id=3RS2T9EPjI) -->
 </div>
