@@ -19,7 +19,7 @@ redirect_from:
 
 **Yanzhi Tian (田炎智)**, is currently a PhD student at [School of Computer Science and Technology, Beijing Institute of Technology](https://cs.bit.edu.cn/)(北京理工大学计算机学院). He received his bachelor's degree from [XUTELI School, Beijing Institute of Technology](https://xuteli.bit.edu.cn/)(北京理工大学徐特立英才班) in 2023, majoring in computer science.
 
-His research interests include <font color="#2E8B57"><b>Machine Translation</b></font>, <font color="#DAA520"><b>Large Language Models</b></font> and <font color="#1E90FF"><b>Vision Language Models</b></font>.
+His research interests include <font color="#2E8B57"><b>Machine Translation</b></font> and <font color="#DAA520"><b>Large Language Models</b></font>.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -48,8 +48,8 @@ PRIM: Towards Practical In-Image Multilingual Machine Translation
 
 - We propose PRIM, the first real-world multilingual In-Image Machine Translation benchmark, and develop VisTrans, an end-to-end model that achieves superior translation quality and visual effect.
 
-- [![arXiv](https://img.shields.io/badge/arXiv-2509.05146-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2509.05146) [![GitHub](https://img.shields.io/badge/GitHub-PRIM-white?style=flat&logo=github&labelColor=grey&color=white)](https://github.com/BITHLP/PRIM)
-
+- [![ACL Anthology](https://img.shields.io/badge/ACL%20Anthology-EMNLP%202025%20Main-b31b1b?logo=book&logoColor=white)](https://aclanthology.org/2025.emnlp-main.691/) [![GitHub](https://img.shields.io/badge/GitHub-PRIM-white?style=flat&logo=github&labelColor=grey&color=white)](https://github.com/BITHLP/PRIM)
+<!-- [![arXiv](https://img.shields.io/badge/arXiv-2509.05146-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2509.05146) -->
 </div>
 </div>
 
