@@ -32,8 +32,15 @@ His research interests include <font color="#2E8B57"><b>Machine Translation</b><
 
 
 # 📝 Publications 
+`EMNLP 2025 Main` *PRIM: Towards Practical In-Image Multilingual Machine Translation*
 
-<div class='paper-box'>
+**Yanzhi Tian**, Zeming Liu, Zhengyang Liu, Chong Feng, Xin Li, Heyan Huang, Yuhang Guo
+
+- We propose PRIM, the first real-world multilingual In-Image Machine Translation benchmark, and develop VisTrans, an end-to-end model that achieves superior translation quality and visual effect.
+
+- [![ACL Anthology](https://img.shields.io/badge/ACL%20Anthology-EMNLP%202025%20Main-b31b1b?logo=book&logoColor=white)](https://aclanthology.org/2025.emnlp-main.691/) [![GitHub](https://img.shields.io/badge/GitHub-PRIM-white?style=flat&logo=github&labelColor=grey&color=white)](https://github.com/BITHLP/PRIM)
+
+<!-- <div class='paper-box'>
   <div class='paper-box-image'>
     <div style="text-align: center;">
       <div class="badge">EMNLP 2025 Main</div>
@@ -49,9 +56,8 @@ PRIM: Towards Practical In-Image Multilingual Machine Translation
 - We propose PRIM, the first real-world multilingual In-Image Machine Translation benchmark, and develop VisTrans, an end-to-end model that achieves superior translation quality and visual effect.
 
 - [![ACL Anthology](https://img.shields.io/badge/ACL%20Anthology-EMNLP%202025%20Main-b31b1b?logo=book&logoColor=white)](https://aclanthology.org/2025.emnlp-main.691/) [![GitHub](https://img.shields.io/badge/GitHub-PRIM-white?style=flat&logo=github&labelColor=grey&color=white)](https://github.com/BITHLP/PRIM)
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-2509.05146-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2509.05146) -->
 </div>
-</div>
+</div> -->
 
 
 <div class='paper-box'>
@@ -104,20 +110,15 @@ In-Image Neural Machine Translation with Segmented Pixel Sequence-to-Sequence Mo
 ## 2022
 - ``LREC 2022 Workshop``[Ancient Chinese Word Segmentation and Part-of-Speech Tagging Using Data Augmentation](https://aclanthology.org/2022.lt4hala-1.21/), **Yanzhi Tian**, Yuhang Guo -->
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+<!-- # 🎖 Honors and Awards -->
 
 # 📖 Educations
 - *2023.09 - now*: PhD Student. Computer Science, **School of Computer Science and Technology, Beijing Institute of Technology**.  
 - *2019.09 - 2023.06*: Undergraduate. Computer Science, **XUTELI School, Beijing Institute of Technology**.
 
-<!-- # 🧐 Services
-- **Reviewer** of ACL Rolling Review (ARR), 2024 -->
+<!-- # 🧐 Services -->
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+<!-- # 💬 Invited Talks -->
 
 # 💻 Internships
 - *2025.06 - now*, Internship at **Zhipu AI**. Mentor: [Cunxiang Wang](https://wangcunxiang.github.io/).
