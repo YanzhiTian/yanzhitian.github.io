@@ -31,14 +31,23 @@ His research interests include <font color="#2E8B57"><b>Machine Translation</b><
 <!-- - *2023.10*: &nbsp;🎉🎉 1 paper has been accepted by EMNLP 2023 Findings! -->
 
 
-# 📝 Publications 
+# 📝 Publications
+
 `EMNLP 2025 Main` *PRIM: Towards Practical In-Image Multilingual Machine Translation*
-
-**Yanzhi Tian**, Zeming Liu, Zhengyang Liu, Chong Feng, Xin Li, Heyan Huang, Yuhang Guo
-
+- **Yanzhi Tian**, Zeming Liu, Zhengyang Liu, Chong Feng, Xin Li, Heyan Huang, Yuhang Guo
 - We propose PRIM, the first real-world multilingual In-Image Machine Translation benchmark, and develop VisTrans, an end-to-end model that achieves superior translation quality and visual effect.
-
 - [![ACL Anthology](https://img.shields.io/badge/ACL%20Anthology-EMNLP%202025%20Main-b31b1b?logo=book&logoColor=white)](https://aclanthology.org/2025.emnlp-main.691/) [![GitHub](https://img.shields.io/badge/GitHub-PRIM-white?style=flat&logo=github&labelColor=grey&color=white)](https://github.com/BITHLP/PRIM)
+
+`ACL 2025 Findings` *Exploring In-Image Machine Translation with Real-World Background*
+- **Yanzhi Tian**, Zeming Liu, Zhengyang Liu, Yuhang Guo
+- We tackle In-Image Machine Translation with real-world backgrounds by introducing a new dataset IIMT30k and the DebackX model for better translation and visual quality.
+- [![ACL Anthology](https://img.shields.io/badge/ACL%20Anthology-ACL%202025%20Findings-b31b1b?logo=book&logoColor=white)](https://aclanthology.org/2025.findings-acl.6) [![GitHub](https://img.shields.io/badge/GitHub-DebackX-white?style=flat&logo=github&labelColor=grey&color=white)](https://github.com/BITHLP/DebackX)
+
+`EMNLP 2023 Findings` *In-Image Neural Machine Translation with Segmented Pixel Sequence-to-Sequence Model*
+- **Yanzhi Tian**, Xiang Li, Zeming Liu, Yuhang Guo, Bin Wang
+- We design an end-to-end model for IIMT that outperforms traditional cascade methods for the first time.
+- [![ACL Anthology](https://img.shields.io/badge/ACL%20Anthology-EMNLP%202023%20Findings-b31b1b?logo=book&logoColor=white)](https://aclanthology.org/2023.findings-emnlp.1004/) [![GitHub](https://img.shields.io/badge/GitHub-grey.svg?style=flat&logo=github)](https://github.com/YanzhiTian/E2E-IIMT)
+
 
 <!-- <div class='paper-box'>
   <div class='paper-box-image'>
@@ -60,7 +69,7 @@ PRIM: Towards Practical In-Image Multilingual Machine Translation
 </div> -->
 
 
-<div class='paper-box'>
+<!-- <div class='paper-box'>
   <div class='paper-box-image'>
     <div style="text-align: center;">
       <div class="badge">ACL 2025 Findings</div>
@@ -75,12 +84,11 @@ Exploring In-Image Machine Translation with Real-World Background
 
 - We tackle In-Image Machine Translation with real-world backgrounds by introducing a new dataset IIMT30k and the DebackX model for better translation and visual quality.
 - [![ACL Anthology](https://img.shields.io/badge/ACL%20Anthology-ACL%202025%20Findings-b31b1b?logo=book&logoColor=white)](https://aclanthology.org/2025.findings-acl.6) [![GitHub](https://img.shields.io/badge/GitHub-DebackX-white?style=flat&logo=github&labelColor=grey&color=white)](https://github.com/BITHLP/DebackX)
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-2505.15282-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2505.15282) [![ACL](https://img.shields.io/badge/ACL-grey.svg?stype=flat)](https://aclanthology.org/2025.findings-acl.6/) -->
 </div>
-</div>
+</div> -->
 
 
-<div class='paper-box'>
+<!-- <div class='paper-box'>
   <div class='paper-box-image'>
     <div style="text-align: center;">
       <div class="badge">EMNLP 2023 Findings</div>
@@ -88,20 +96,16 @@ Exploring In-Image Machine Translation with Real-World Background
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023 Findings</div><img src='images/IIMT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
 
 In-Image Neural Machine Translation with Segmented Pixel Sequence-to-Sequence Model
 
-**Yanzhi Tian**, Xiang Li, Zeming Liu, Yuhang Guo, Bin Wang
+**Yanzhi Tian**, Xiang Li, Zeming Liu, Yuhang Guo, Bin Wang -->
 
 <!-- [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=WtHJWXIAAAAJ&citation_for_view=WtHJWXIAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- We design an end-to-end model for IIMT that outperforms traditional cascade methods for the first time.
+<!-- - We design an end-to-end model for IIMT that outperforms traditional cascade methods for the first time.
 - [![ACL Anthology](https://img.shields.io/badge/ACL%20Anthology-EMNLP%202023%20Findings-b31b1b?logo=book&logoColor=white)](https://aclanthology.org/2023.findings-emnlp.1004/) [![GitHub](https://img.shields.io/badge/GitHub-grey.svg?style=flat&logo=github)](https://github.com/YanzhiTian/E2E-IIMT)
-
-<!-- [![ACL](https://img.shields.io/badge/ACL-grey.svg?stype=flat)](https://aclanthology.org/2023.findings-emnlp.1004/) [![OpenReview](https://img.shields.io/badge/OpenReview-grey.svg?stype=flat)](https://openreview.net/forum?id=3RS2T9EPjI) -->
 </div>
-</div>
+</div> -->
 
 
 <!-- ## 2023
