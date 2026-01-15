@@ -34,10 +34,12 @@ His research interests include <font color="#2E8B57"><b>Machine Translation</b><
 # 📝 Publications
 
 1. [*Preprint*] **Beyond Literal Mapping: Benchmarking and Improving Non-Literal Translation Evaluation** [[Paper](https://arxiv.org/abs/2601.07338)] [[Code](https://github.com/BITHLP/RATE)]
+
 *Preprint* • **<u>Yanzhi Tian</u>**, Cunxiang Wang, Zeming Liu, Heyan Huang, Wenbo Yu, Dawei Song, Jie Tang, Yuhang Guo
 <!-- - [![arXiv](https://img.shields.io/badge/arXiv-2601.07338-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.07338) [![GitHub](https://img.shields.io/badge/GitHub-RATE-white?style=flat&logo=github&labelColor=grey&color=white)](https://github.com/BITHLP/RATE) -->
 
 2. [*EMNLP 2025 Main*] **PRIM: Towards Practical In-Image Multilingual Machine Translation** [[Paper](https://aclanthology.org/2025.emnlp-main.691/)] [[Code](https://github.com/BITHLP/PRIM)]
+
 *EMNLP 2025 Main* • **<u>Yanzhi Tian</u>**, Zeming Liu, Zhengyang Liu, Chong Feng, Xin Li, Heyan Huang, Yuhang Guo
 <!-- - [![ACL Anthology](https://img.shields.io/badge/ACL%20Anthology-EMNLP%202025%20Main-b31b1b?logo=book&logoColor=white)](https://aclanthology.org/2025.emnlp-main.691/) [![GitHub](https://img.shields.io/badge/GitHub-PRIM-white?style=flat&logo=github&labelColor=grey&color=white)](https://github.com/BITHLP/PRIM) -->
 
