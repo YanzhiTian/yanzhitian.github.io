@@ -26,14 +26,15 @@ His research interests include <font color="#2E8B57"><b>Machine Translation</b><
 
 # 🔥 News
 
+- *2026.04*: &nbsp;🎉🎉 1 paper has been accepted by ACL 2026 Main!
 - *2025.08*: &nbsp;🎉🎉 1 paper has been accepted by EMNLP 2025 Main!
-- *2025.05*: &nbsp;🎉🎉 1 paper has been accepted by ACL 2025 Findings!
+<!-- - *2025.05*: &nbsp;🎉🎉 1 paper has been accepted by ACL 2025 Findings! -->
 <!-- - *2023.10*: &nbsp;🎉🎉 1 paper has been accepted by EMNLP 2023 Findings! -->
 
 
 # 📝 Publications
 
-1. [*Preprint*] **Beyond Literal Mapping: Benchmarking and Improving Non-Literal Translation Evaluation** [[Paper](https://arxiv.org/abs/2601.07338)] [[Code](https://github.com/BITHLP/RATE)]
+1. [*ACL 2026 Main*] **Beyond Literal Mapping: Benchmarking and Improving Non-Literal Translation Evaluation** [[Paper](https://arxiv.org/abs/2601.07338)] [[Code](https://github.com/BITHLP/RATE)]
 - **<u>Yanzhi Tian</u>**, Cunxiang Wang, Zeming Liu, Heyan Huang, Wenbo Yu, Dawei Song, Jie Tang, Yuhang Guo
 - Adopted by **GLM-5** for translation performance evaluation, see [[GLM-5 technical report](https://arxiv.org/pdf/2602.15763#page=29&view=FitH,0)].
 <!-- - [![arXiv](https://img.shields.io/badge/arXiv-2601.07338-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.07338) [![GitHub](https://img.shields.io/badge/GitHub-RATE-white?style=flat&logo=github&labelColor=grey&color=white)](https://github.com/BITHLP/RATE) -->
@@ -127,6 +128,6 @@ In-Image Neural Machine Translation with Segmented Pixel Sequence-to-Sequence Mo
 <!-- # 💬 Invited Talks -->
 
 # 💻 Internships
-- *2026-03 - now*, Internship at **WeChat, Tencent**
+- *2026.03 - now*, Internship at **WeChat, Tencent**.
 - *2025.06 - 2026.01*, Internship at **Zhipu AI**. 
 - *2023.01 - 2023.06*, Internship at **Xiaomi AI Lab**.
