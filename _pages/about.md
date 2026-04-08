@@ -35,7 +35,7 @@ His research interests include <font color="#2E8B57"><b>Machine Translation</b><
 # 📝 Publications
 
 1. [*ACL 2026 Main*] **Beyond Literal Mapping: Benchmarking and Improving Non-Literal Translation Evaluation** [[Paper](https://arxiv.org/abs/2601.07338)] [[Code](https://github.com/BITHLP/RATE)]
-- **<u>Yanzhi Tian</u>**, Cunxiang Wang, Zeming Liu, Heyan Huang, Wenbo Yu, Dawei Song, Jie Tang, Yuhang Guo
+- **<u>Yanzhi Tian</u>** $^*$, Cunxiang Wang $^*$, Zeming Liu, Heyan Huang, Wenbo Yu, Dawei Song, Jie Tang, Yuhang Guo
 - Adopted by **GLM-5** for translation performance evaluation, see [[GLM-5 technical report](https://arxiv.org/pdf/2602.15763#page=29&view=FitH,0)].
 <!-- - [![arXiv](https://img.shields.io/badge/arXiv-2601.07338-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.07338) [![GitHub](https://img.shields.io/badge/GitHub-RATE-white?style=flat&logo=github&labelColor=grey&color=white)](https://github.com/BITHLP/RATE) -->
 
@@ -49,6 +49,8 @@ His research interests include <font color="#2E8B57"><b>Machine Translation</b><
 
 4. [*EMNLP 2023 Findings*] **In-Image Neural Machine Translation with Segmented Pixel Sequence-to-Sequence Model** [[Paper](https://aclanthology.org/2023.findings-emnlp.1004/)] [[Code](https://github.com/YanzhiTian/E2E-IIMT)]
 - **<u>Yanzhi Tian</u>**, Xiang Li, Zeming Liu, Yuhang Guo, Bin Wang
+
+
 <!-- - [![ACL Anthology](https://img.shields.io/badge/ACL%20Anthology-EMNLP%202023%20Findings-b31b1b?logo=book&logoColor=white)](https://aclanthology.org/2023.findings-emnlp.1004/) [![GitHub](https://img.shields.io/badge/GitHub-grey.svg?style=flat&logo=github)](https://github.com/YanzhiTian/E2E-IIMT) -->
 
 
