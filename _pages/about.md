@@ -50,7 +50,7 @@ His research interests include <font color="#2E8B57"><b>Machine Translation</b><
 4. [*EMNLP 2023 Findings*] **In-Image Neural Machine Translation with Segmented Pixel Sequence-to-Sequence Model** [[Paper](https://aclanthology.org/2023.findings-emnlp.1004/)] [[Code](https://github.com/YanzhiTian/E2E-IIMT)]
 - **<u>Yanzhi Tian</u>**, Xiang Li, Zeming Liu, Yuhang Guo<sup>#</sup>, Bin Wang
 
-<sub><sup>*</sup> Equal contribution; <sup>#</sup> Corresponding author.</sub>
+<sup>*</sup> Equal contribution; <sup>#</sup> Corresponding author.
 
 <!-- - [![ACL Anthology](https://img.shields.io/badge/ACL%20Anthology-EMNLP%202023%20Findings-b31b1b?logo=book&logoColor=white)](https://aclanthology.org/2023.findings-emnlp.1004/) [![GitHub](https://img.shields.io/badge/GitHub-grey.svg?style=flat&logo=github)](https://github.com/YanzhiTian/E2E-IIMT) -->
 
