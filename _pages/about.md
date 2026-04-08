@@ -122,6 +122,15 @@ In-Image Neural Machine Translation with Segmented Pixel Sequence-to-Sequence Mo
 
 <!-- # 🎖 Honors and Awards -->
 
+# 📊 Competitions
+[*International Conference on Spoken Language Translation (IWSLT 2023)*] **The Xiaomi AI Lab’s Speech Translation Systems for IWSLT 2023 Offline Task, Simultaneous Task and Speech-to-Speech Task** [[Paper](https://aclanthology.org/2023.iwslt-1.39/)] 
+
+[*ALT2023: Ancient Language Translation Workshop*] **BIT-ACT: An Ancient Chinese Translation System Using Data Augmentation** [[Paper](https://aclanthology.org/2023.alt-1.6/)] 
+
+[*2022 Second Workshop on Language Technologies for Historical and Ancient Languages*] **Ancient Chinese Word Segmentation and Part-of-Speech Tagging Using Data Augmentation** [[Paper](https://aclanthology.org/2022.lt4hala-1.21/)]
+
+[*2022 Third Workshop on Automatic Simultaneous Translation*] **BIT-Xiaomi’s System for AutoSimTrans 2022** [[Paper](https://aclanthology.org/2022.autosimtrans-1.6/)]
+
 # 📖 Educations
 - *2023.09 - now*: PhD Student. Computer Science, **School of Computer Science and Technology, Beijing Institute of Technology**.  
 - *2019.09 - 2023.06*: Undergraduate. Computer Science, **XUTELI School, Beijing Institute of Technology**.
