@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Yanzhi Tian (田炎智)**, is currently a PhD student at [School of Computer Science and Technology, Beijing Institute of Technology](https://cs.bit.edu.cn/)(北京理工大学计算机学院). He received his bachelor's degree from [XUTELI School, Beijing Institute of Technology](https://xuteli.bit.edu.cn/)(北京理工大学徐特立英才班) in 2023, majoring in computer science.
+**Yanzhi Tian (田炎智)** is a PhD student at [School of Computer Science and Technology, Beijing Institute of Technology](https://cs.bit.edu.cn/)(北京理工大学计算机学院). He received his B.S. degree in Computer Science from [XUTELI School, Beijing Institute of Technology](https://xuteli.bit.edu.cn/)(北京理工大学徐特立英才班) in 2023.
 
 His research interests include <font color="#2E8B57"><b>Machine Translation</b></font> and <font color="#DAA520"><b>Large Language Models</b></font>.
 
@@ -26,15 +26,16 @@ His research interests include <font color="#2E8B57"><b>Machine Translation</b><
 
 # 🔥 News
 
-- *2026.04*: &nbsp;🎉🎉 1 paper has been accepted by ACL 2026 Main!
-- *2025.08*: &nbsp;🎉🎉 1 paper has been accepted by EMNLP 2025 Main!
-<!-- - *2025.05*: &nbsp;🎉🎉 1 paper has been accepted by ACL 2025 Findings! -->
-<!-- - *2023.10*: &nbsp;🎉🎉 1 paper has been accepted by EMNLP 2023 Findings! -->
+- *2026.05*: &nbsp;🎉🎉 Our paper has been selected for an Oral Presentation at ACL 2026.
+- *2026.04*: &nbsp;🎉🎉 1 paper has been accepted by ACL 2026 Main.
+- *2025.08*: &nbsp;🎉🎉 1 paper has been accepted by EMNLP 2025 Main.
+<!-- - *2025.05*: &nbsp;🎉🎉 1 paper has been accepted by ACL 2025 Findings. -->
+<!-- - *2023.10*: &nbsp;🎉🎉 1 paper has been accepted by EMNLP 2023 Findings. -->
 
 
 # 📝 Publications
 
-1. [*ACL 2026 Main*] **Beyond Literal Mapping: Benchmarking and Improving Non-Literal Translation Evaluation** [[Paper](https://arxiv.org/abs/2601.07338)] [[Code](https://github.com/BITHLP/RATE)]
+1. [*ACL 2026 Main, Oral*] **Beyond Literal Mapping: Benchmarking and Improving Non-Literal Translation Evaluation** [[Paper](https://arxiv.org/abs/2601.07338)] [[Code](https://github.com/BITHLP/RATE)]
 - **<u>Yanzhi Tian</u>**<sup>*</sup>, Cunxiang Wang<sup>*</sup>, Zeming Liu, Heyan Huang, Wenbo Yu, Dawei Song, Jie Tang, Yuhang Guo
 - Adopted by **GLM-5** for translation performance evaluation, see [[GLM-5 technical report](https://arxiv.org/pdf/2602.15763#page=29&view=FitH,0)].
 <!-- - [![arXiv](https://img.shields.io/badge/arXiv-2601.07338-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.07338) [![GitHub](https://img.shields.io/badge/GitHub-RATE-white?style=flat&logo=github&labelColor=grey&color=white)](https://github.com/BITHLP/RATE) -->
@@ -122,7 +123,7 @@ In-Image Neural Machine Translation with Segmented Pixel Sequence-to-Sequence Mo
 
 <!-- # 🎖 Honors and Awards -->
 
-# 📊 Competitions
+# 📊 Shared Tasks
 1. [*International Conference on Spoken Language Translation (IWSLT 2023)*] **The Xiaomi AI Lab’s Speech Translation Systems for IWSLT 2023 Offline Task, Simultaneous Task and Speech-to-Speech Task** [[Paper](https://aclanthology.org/2023.iwslt-1.39/)] 
 
 2. [*ALT2023: Ancient Language Translation Workshop*] **BIT-ACT: An Ancient Chinese Translation System Using Data Augmentation** [[Paper](https://aclanthology.org/2023.alt-1.6/)] 
@@ -131,7 +132,7 @@ In-Image Neural Machine Translation with Segmented Pixel Sequence-to-Sequence Mo
 
 4. [*2022 Third Workshop on Automatic Simultaneous Translation*] **BIT-Xiaomi’s System for AutoSimTrans 2022** [[Paper](https://aclanthology.org/2022.autosimtrans-1.6/)]
 
-# 📖 Educations
+# 📖 Education
 - *2023.09 - now*: PhD Student. Computer Science, **School of Computer Science and Technology, Beijing Institute of Technology**.  
 - *2019.09 - 2023.06*: Undergraduate. Computer Science, **XUTELI School, Beijing Institute of Technology**.
 
