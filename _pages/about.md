@@ -25,7 +25,7 @@ His research interests include <font color="#2E8B57"><b>Machine Translation</b><
 
 
 # 🔥 News
-
+- *2026.07*: &nbsp;🎉 Selected for the **Meituan LongCat Talent Program** and joined LongCat as a research intern.
 - *2026.05*: &nbsp;🎉🎉 Our paper has been selected for an Oral Presentation at ACL 2026.
 - *2026.04*: &nbsp;🎉🎉 1 paper has been accepted by ACL 2026 Main.
 - *2025.08*: &nbsp;🎉🎉 1 paper has been accepted by EMNLP 2025 Main.
@@ -133,7 +133,7 @@ In-Image Neural Machine Translation with Segmented Pixel Sequence-to-Sequence Mo
 4. [*2022 Third Workshop on Automatic Simultaneous Translation*] **BIT-Xiaomi’s System for AutoSimTrans 2022** [[Paper](https://aclanthology.org/2022.autosimtrans-1.6/)]
 
 # 📖 Education
-- *2023.09 - now*: PhD Student. Computer Science, **School of Computer Science and Technology, Beijing Institute of Technology**.  
+- *2023.09 - present*: PhD Student. Computer Science, **School of Computer Science and Technology, Beijing Institute of Technology**.  
 - *2019.09 - 2023.06*: Undergraduate. Computer Science, **XUTELI School, Beijing Institute of Technology**.
 
 <!-- # 🧐 Services -->
@@ -141,6 +141,7 @@ In-Image Neural Machine Translation with Segmented Pixel Sequence-to-Sequence Mo
 <!-- # 💬 Invited Talks -->
 
 # 💻 Internships
-- *2026.03 - now*, Internship at **WeChat, Tencent**.
-- *2025.06 - 2026.01*, Internship at **Zhipu AI**. 
-- *2023.01 - 2023.06*, Internship at **Xiaomi AI Lab**.
+- *2026.07 - present* **LongCat, Meituan** — Selected for the **LongCat Talent Program (LongCat 人才计划)**.
+- *2026.03 - 2026.07* **WeChat, Tencent**.
+- *2025.06 - 2026.01* **Zhipu AI**. 
+- *2023.01 - 2023.06* **Xiaomi AI Lab**.
