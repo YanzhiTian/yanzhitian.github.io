@@ -25,10 +25,10 @@ His research interests include <font color="#2E8B57"><b>Machine Translation</b><
 
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉 Selected for the **Meituan LongCat Talent Program** and joined LongCat as a research intern.
-- *2026.05*: &nbsp;🎉🎉 Our paper has been selected for an Oral Presentation at ACL 2026.
-- *2026.04*: &nbsp;🎉🎉 1 paper has been accepted by ACL 2026 Main.
-- *2025.08*: &nbsp;🎉🎉 1 paper has been accepted by EMNLP 2025 Main.
+- *2026.07*: &nbsp; Selected for the **Meituan LongCat Talent Program** and joined LongCat as a research intern.
+- *2026.05*: &nbsp; Our paper has been selected for an Oral Presentation at ACL 2026.
+- *2026.04*: &nbsp; 1 paper has been accepted by ACL 2026 Main.
+- *2025.08*: &nbsp; 1 paper has been accepted by EMNLP 2025 Main.
 <!-- - *2025.05*: &nbsp;🎉🎉 1 paper has been accepted by ACL 2025 Findings. -->
 <!-- - *2023.10*: &nbsp;🎉🎉 1 paper has been accepted by EMNLP 2023 Findings. -->
 
@@ -141,7 +141,8 @@ In-Image Neural Machine Translation with Segmented Pixel Sequence-to-Sequence Mo
 <!-- # 💬 Invited Talks -->
 
 # 💻 Internships
-- *2026.07 - present* **LongCat, Meituan** — Selected for the **LongCat Talent Program (LongCat 人才计划)**.
+- *2026.07 - present* **LongCat, Meituan**.
+  - Selected for the **LongCat Talent Program (LongCat 人才计划)**.
 - *2026.03 - 2026.07* **WeChat, Tencent**.
 - *2025.06 - 2026.01* **Zhipu AI**. 
 - *2023.01 - 2023.06* **Xiaomi AI Lab**.
